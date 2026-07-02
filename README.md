@@ -1,5 +1,5 @@
 ### Hey there! 👋
-I'm Fahad Ali, a Software Engineer from NED University with hands-on experience in a wide range of technologies. I specialize in creating innovative solutions and delivering high-quality software. Here’s a snapshot of what I bring to the table:
+I'm Farhan Ali, a Software Engineer from NED University with hands-on experience in a wide range of technologies. I specialize in creating innovative solutions and delivering high-quality software. Here’s a snapshot of what I bring to the table:
 
 ## 🛠 Technical Skills:
 
