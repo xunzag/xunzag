@@ -78,9 +78,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xunzag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunzag&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xunzag&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xunzag&theme=tokyo-night&hide_border=true" width="95%"/>
@@ -93,14 +90,6 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/xunzag/xunzag/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=xunzag&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
