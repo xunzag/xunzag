@@ -20,7 +20,6 @@
 - 🔭 Production Lead & Developer at **Babar Tech Solutions**, juggling full-stack builds across multiple client projects
 - 🌍 Based in **Karachi, Pakistan**
 - 🎓 BS Software Engineering, **UIT University**
-- ✍️ I write on [Medium @mwfarrukh](https://medium.com/@mwfarrukh)
 - 💡 I like building things end-to-end: frontend, backend, infra, and the deployment pipeline that ships it all
 - ⚡ Fun fact: I've moved from NED-style badge-lists to a README with actual animations — see below 👇
 
